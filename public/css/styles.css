@@ -5,17 +5,18 @@ body {
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 1rem;
+  font-size: 3rem;
   margin:  5%;
   color: #292D38;
 }
 
-#level {
+h4 {
   font-family: 'Press Start 2P', cursive;
-  font-size: 0.5rem;
+  font-size: 2rem;
   margin:  5%;
-  color: #292D38;
+  color: #9BC4BC;
 }
+
 
 .container {
   display: block;
@@ -24,12 +25,12 @@ body {
 
 }
 
-div.btn {
-  margin: 10px;
+.btn {
+  margin: 25px;
   display: inline-block;
-  height: 80px;
-  width: 80px;
-  border: 5px solid black;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
   border-radius: 20%;
 }
 
